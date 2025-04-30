@@ -2,7 +2,6 @@
 
 [![npm](https://img.shields.io/npm/v/vimeo.svg?style=flat-square)](https://www.npmjs.com/package/vimeo)
 [![License](https://img.shields.io/github/license/vimeo/vimeo.js.svg)](https://www.npmjs.com/package/vimeo)
-[![Travis](https://img.shields.io/travis/vimeo/vimeo.js.svg)](https://travis-ci.org/vimeo/vimeo.js)
 
 # Interacting with the Vimeo API using Node.js
 This is a simple server-side Node.js library for interacting with the [Vimeo API](https://developers.vimeo.com).
